@@ -6,7 +6,7 @@
         "Mongo DB"
     ],
     "repository": "https://github.com/prrname/rname_vvk",
-    "success_url": "https://telegram.dog/ChVivekTomar",
+    "success_url": "https://telegram.dog/pirabts",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org ",
